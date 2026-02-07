@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "12 to 12",
+  "base_artist": "sombr",
+  "createdAt": "2026-02-07T11:31:48.717137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "12 Bar Bruise",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_12_Bar_Bruise_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "12 Bar Bruise",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_12_Bar_Bruise_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "12 Feet High",
+      "artist": "Leslie Stevens",
+      "has_synced": false,
+      "path": "select/03_12_Feet_High_Leslie_Stevens.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Took All The Rambling Out Of Me - Remastered 12/1991",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/04_You_Took_All_The_Rambling_Out_Of_Me_-_Remastered_12_1991_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "12:51",
+      "artist": "The Strokes",
+      "has_synced": true,
+      "path": "select/05_12_51_The_Strokes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "12 Hours, 630 Miles",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/06_12_Hours,_630_Miles_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seventeen - Droyds 12\" Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_Seventeen_-_Droyds_12__Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Call Me (12\" Instrumental Version)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/08_Call_Me_(12__Instrumental_Version)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Call Me (12'' Version)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/09_Call_Me_(12''_Version)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart of Glass (12-Inch Instrumental)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/10_Heart_of_Glass_(12-Inch_Instrumental)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hallo Spaceboy - 12\" Remix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Hallo_Spaceboy_-_12__Remix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hallo Spaceboy (12\" Remix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Hallo_Spaceboy_(12__Remix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_In_The_Heat_Of_The_Morning_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love You Till Tuesday - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_Love_You_Till_Tuesday_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Silly Boy Blue - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_Silly_Boy_Blue_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "When I Live My Dream - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_When_I_Live_My_Dream_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Go To Sleep - Zane Lowe - 08/12/03",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/17_Go_To_Sleep_-_Zane_Lowe_-_08_12_03_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Go to Sleep. (Live on Zane Lowe, 08/12/03)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/18_Go_to_Sleep._(Live_on_Zane_Lowe,_08_12_03)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Situation - U.S. 12\" Mix",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/19_Situation_-_U.S._12__Mix_Yazoo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "12 to 12",
+      "artist": "sombr",
+      "has_synced": false,
+      "path": "select/pl_01_12_to_12_sombr.txt"
+    }
+  ]
+}
